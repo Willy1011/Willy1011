@@ -30,7 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/willy101_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="willy101_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/willy101_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="willy101_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Willy101_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="willy101_" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/het2tmNTp5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/het2tmNTp5" height="30" width="40" /></a>
 </p>
 
