@@ -19,7 +19,7 @@
 
 - 📝 I regularly Use Replit To Code [https://replit.com/~](https://replit.com/~)
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **Anything You Want**
 
 - 📫 How to reach me **Wholley123@yahoo.com**
 
