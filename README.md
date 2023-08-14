@@ -1,44 +1,27 @@
-<h1 align="center">Hi 👋, I'm Willy</h1>
-<h3 align="center">A passionate frontend developer from United States</h3>
+# Willy - Gaming Discord Bot Creator and Website Maker
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=willy1011&label=Profile%20views&color=0e75b6&style=flat" alt="willy1011" /> </p>
+## About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=willy1011" alt="willy1011" /></a> </p>
+Hello there! I'm Willy, your friendly neighborhood Discord bot creator and website maker. I'm passionate about gaming, coding, and creating awesome online experiences.
 
-<p align="left"> <a href="https://twitter.com/willy101_" target="blank"><img src="https://img.shields.io/twitter/follow/willy101_?logo=twitter&style=for-the-badge" alt="willy101_" /></a> </p>
+## What I Do
 
-- 🔭 I’m currently working on [Uptime Robot Discord Bot](https://github.com/Willy1011/UpTime-Robot)
+In the gaming realm, I specialize in crafting Discord bots that bring your gaming community to life. Whether it's enhancing moderation, automating tasks, or adding fun game-related features, I've got you covered.
 
-- 🌱 I’m currently learning **Python**
+But that's not all! I'm also a website maker, crafting stunning online spaces for individuals and businesses. I love blending design and functionality to create web experiences that leave a lasting impression.
 
-- 👯 I’m looking to collaborate on [A All In One Discord Bot](Coming Soon!)
+## Get in Touch
 
-- 🤝 I’m looking for help with [Discord Bot Coding](Coming Soon!)
+Want to supercharge your Discord server or build a fantastic website? Let's chat! Feel free to reach out if you're interested in:
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/willy101_](https://linktr.ee/willy101_)
+- Gaming Discord bots
+- Website design and development
+- Collaboration on exciting projects
 
-- 📝 I regularly Use Replit To Code [https://replit.com/~](https://replit.com/~)
+You can catch me on Discord, Twitter, or visit my website:
 
-- 💬 Ask me about **Anything You Want**
+- Discord: [Discord Server](https://discord.gg/BbKDGJjJxQ)
+- Twitter: [Twitter](https://twitter.com/Willy101_)
+Looking forward to bringing some gaming magic and online excellence to the world!
 
-- 📫 How to reach me **Wholley123@yahoo.com**
-
-- 📄 Discord Server [https://discord.gg/het2tmNTp5](https://discord.gg/het2tmNTp5)
-
-- ⚡ Fun fact **I’m Not That Good At Coding “YET”**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/willy101_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="willy101_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Willy101_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="willy101_" height="30" width="40" /></a>
-<a href="https://discord.gg/het2tmNTp5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/het2tmNTp5" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=willy1011&show_icons=true&locale=en&layout=compact" alt="willy1011" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=willy1011&show_icons=true&locale=en" alt="willy1011" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=willy1011&" alt="willy1011" /></p>
+P.S. If you ever need a trusty sidekick for your gaming adventures, my Discord bot might just be the perfect companion! 😉
