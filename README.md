@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Great! Here's a polished version:<br><br>- 🔭 Professionally, I specialize in developing Discord bots for QC Devs.<br>- 📚 Currently, I'm deepening my knowledge in the latest trends and technologies in bot development.<br>- ⚡ Outside of work, I proudly serve as the owner of QC Devs, residing in Illinois.</p>
+<p align="left">Willy101_:<br><br>- 🔭 Professionally, I specialize in developing Discord bots for QC Devs.<br>- 📚 Currently, I'm deepening my knowledge in the latest trends and technologies in bot development.<br>- ⚡ Outside of work, I proudly serve as the owner of QC Devs, residing in Illinois.</p>
 
 ###
 
